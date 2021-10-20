@@ -1,0 +1,96 @@
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\WebFormsApplication.dll.config
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\WebFormsApplication.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\WebFormsApplication.pdb
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\csc.exe
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\csc.exe.config
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\csc.rsp
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\csi.exe
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\csi.exe.config
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\csi.rsp
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.AppContext.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.Console.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.IO.Compression.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.IO.Pipes.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.Security.Claims.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.ValueTuple.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.Xml.XPath.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\vbc.exe
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\vbc.exe.config
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\vbc.rsp
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\VBCSCompiler.exe
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\Antlr3.Runtime.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\AspNet.ScriptManager.bootstrap.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\AspNet.ScriptManager.jQuery.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\Microsoft.ScriptManager.WebForms.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\Newtonsoft.Json.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\System.Web.Optimization.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\WebGrease.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\System.Web.Optimization.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\Newtonsoft.Json.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\Antlr3.Runtime.pdb
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\obj\Debug\WebFormsApplication.csprojAssemblyReference.cache
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\obj\Debug\WebFormsApplication.csproj.CoreCompileInputs.cache
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\obj\Debug\WebFormsApplication.csproj.CopyComplete
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\obj\Debug\WebFormsApplication.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\WebFormsApplication\obj\Debug\WebFormsApplication.pdb
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\bin\WebFormsApplication.dll.config
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\bin\WebFormsApplication.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\bin\WebFormsApplication.pdb
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\bin\Antlr3.Runtime.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\bin\Newtonsoft.Json.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\bin\System.Web.Optimization.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\bin\WebGrease.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\bin\System.Web.Optimization.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\bin\Newtonsoft.Json.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\bin\Antlr3.Runtime.pdb
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\obj\Debug\WebFormsApplication.csproj.AssemblyReference.cache
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\obj\Debug\WebFormsApplication.csproj.CoreCompileInputs.cache
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\obj\Debug\WebFormsApplication.csproj.CopyComplete
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\obj\Debug\WebFormsApplication.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\WebFormsApplication\obj\Debug\WebFormsApplication.pdb

@@ -1,4 +1,5 @@
-﻿using MVCApplication.Models;
+﻿using MVCApplication.DataAccess;
+using MVCApplication.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,16 +10,32 @@ namespace MVCApplication.Controllers
 {
     public class CourseController : Controller
     {
+
+        private RouxAcademyDbContext db = new RouxAcademyDbContext();
         // GET: Course
         public ActionResult Index()
         {
             return View();
         }
 
+        public ActionResult Online()
+        {
+            //var courses = db.Courses.Where(item => item.IsVirtual).OrderBy(item => item.Name).ToList();
+
+            //LINQ calling similar to SQL calls
+            var courses = from c in db.Courses
+                          where c.IsVirtual
+                          orderby c.Name
+                          select c;
+            return View(courses.ToList());
+        }
+
         // GET: Course/Details/5
         public ActionResult Details(int id)
         {
-            return View();
+            var course = db.Courses.Where(item => item.Id == id).SingleOrDefault();
+
+            return View(course);
         }
 
         // GET: Course/Create
@@ -35,12 +52,16 @@ namespace MVCApplication.Controllers
             {
                 if (ModelState.IsValid)
                 {
-                    // TODO: Add insert logic here
+                    using(var context = new RouxAcademyDbContext())
+                    {
+                        context.Courses.Add(course);
+                        context.SaveChanges();
+                    }
 
                     return RedirectToAction("Index");
                 }
+
                 return View(course);
-                
             }
             catch
             {
@@ -90,22 +111,6 @@ namespace MVCApplication.Controllers
             {
                 return View();
             }
-        }
-
-        [HttpGet]
-        public ActionResult Review()
-        {
-            return View();
-        }
-
-        [HttpPost]
-        public ActionResult Review(CourseReview review)
-        {
-            if (ModelState.IsValid)
-            {
-                return RedirectToAction("Index");
-            }
-            return View(review);
         }
     }
 }

@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <p>Popular Courses This Month </p>
+        @{ var courses = new List<string>(){ "Computer Science", "Data Science", "Cybersecurity"};
+            <ul>
+                @foreach(string course in courses){
+                    <li>@course</li>
+                }
+            </ul>
+         }
+    </body>
+</html>
