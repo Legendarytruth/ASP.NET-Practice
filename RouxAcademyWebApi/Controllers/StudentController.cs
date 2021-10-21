@@ -5,9 +5,11 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace RouxAcademyWebApi.Controllers
 {
+    [EnableCors(origins: "http://localhost:2392/", headers:"*", methods: "*")]
     public class StudentController : ApiController
     {
         List<Student> students = new List<Student>()
