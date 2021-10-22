@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MVCApplication",
-    "\\RouxAcademyWebApi",
-    "\\RouxAcademyWebApi\\Controllers",
-    "\\RouxAcademyWebApi\\Models"
+    "\\Learning ASP.NET",
+    "\\Learning ASP.NET\\RouxAcademyWebApi",
+    "\\Learning ASP.NET\\RouxAcademyWebApi\\Controllers"
   ],
-  "SelectedNode": "\\Tutorial.AspNet.sln",
+  "SelectedNode": "\\Learning ASP.NET\\RouxAcademyWebApi\\Controllers\\CourseController.cs",
   "PreviewInSolutionExplorer": false
 }
