@@ -1,4 +1,5 @@
-﻿using System;
+﻿using HPlus.Ecommerce.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -15,15 +16,15 @@ namespace HPlus.Ecommerce.Controllers
         }
 
         [HttpPost]
-        public ActionResult Index(string username, string password)
+        public ActionResult Index(Login request)
         {
-            if (!string.IsNullOrEmpty(username) && !string.IsNullOrEmpty(password))
+            if (!string.IsNullOrEmpty(request.Username) && !string.IsNullOrEmpty(request.Password))
             {
-                FormsAuthentication.SetAuthCookie(username, false);
-                return Redirect(FormsAuthentication.GetRedirectUrl(username, false));
+                FormsAuthentication.SetAuthCookie(request.Username, false);
+                return Redirect(FormsAuthentication.GetRedirectUrl(request.Username, false));
             }
             ViewBag.Failed = true;
-            return View();
+            return View(request);
         }
     }
 }
