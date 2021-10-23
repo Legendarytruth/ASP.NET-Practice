@@ -22,7 +22,7 @@ namespace HPlus.Ecommerce.Controllers
                 FormsAuthentication.SetAuthCookie(username, false);
                 return Redirect(FormsAuthentication.GetRedirectUrl(username, false));
             }
-
+            ViewBag.Failed = true;
             return View();
         }
     }
