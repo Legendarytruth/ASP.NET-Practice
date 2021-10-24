@@ -380,3 +380,7 @@ C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\ASP.NET MVC 5 Essential Training\
 C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\ASP.NET MVC 5 Essential Training\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.pdb
 C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\ASP.NET MVC 5 Essential Training\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.csproj.AssemblyReference.cache
 C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\ASP.NET MVC 5 Essential Training\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.csproj.CopyComplete
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\ASP.NET MVC 5 Essential Training\HPlus.Ecommerce\bin\EntityFramework.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\ASP.NET MVC 5 Essential Training\HPlus.Ecommerce\bin\EntityFramework.SqlServer.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\ASP.NET MVC 5 Essential Training\HPlus.Ecommerce\bin\EntityFramework.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\ASP.NET MVC 5 Essential Training\HPlus.Ecommerce\bin\EntityFramework.SqlServer.xml

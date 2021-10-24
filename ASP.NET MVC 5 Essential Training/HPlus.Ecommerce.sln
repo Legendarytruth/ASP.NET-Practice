@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.28714.193
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HPlus.Ecommerce", "HPlus.Ecommerce\HPlus.Ecommerce.csproj", "{A6F27309-8070-4288-9E6F-F5092807B9D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HPlus.Ecommerce.Tests", "HPlus.Ecommerce.Tests\HPlus.Ecommerce.Tests.csproj", "{5AC99B6A-4C6A-47C7-886A-288EEECC8692}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A6F27309-8070-4288-9E6F-F5092807B9D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6F27309-8070-4288-9E6F-F5092807B9D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6F27309-8070-4288-9E6F-F5092807B9D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC99B6A-4C6A-47C7-886A-288EEECC8692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC99B6A-4C6A-47C7-886A-288EEECC8692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC99B6A-4C6A-47C7-886A-288EEECC8692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC99B6A-4C6A-47C7-886A-288EEECC8692}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,8 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\HPlus.Ecommerce\\Views",
-    "\\HPlus.Ecommerce\\Views\\Shared"
+    "\\HPlus.Ecommerce.Tests"
   ],
   "SelectedNode": "\\HPlus.Ecommerce.sln",
   "PreviewInSolutionExplorer": false

@@ -1,0 +1,2 @@
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\ASP.NET MVC 5 Essential Training\HPlus.Ecommerce.Tests\obj\Debug\HPlus.Ecommerce.Tests.csproj.AssemblyReference.cache
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\ASP.NET MVC 5 Essential Training\HPlus.Ecommerce.Tests\obj\Debug\HPlus.Ecommerce.Tests.csproj.CoreCompileInputs.cache
