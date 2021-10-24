@@ -379,3 +379,4 @@ C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\ASP.NET MVC 5 Essential Training\
 C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\ASP.NET MVC 5 Essential Training\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.dll
 C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\ASP.NET MVC 5 Essential Training\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.pdb
 C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\ASP.NET MVC 5 Essential Training\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.csproj.AssemblyReference.cache
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\ASP.NET MVC 5 Essential Training\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.csproj.CopyComplete

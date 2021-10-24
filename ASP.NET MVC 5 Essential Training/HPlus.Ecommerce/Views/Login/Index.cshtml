@@ -3,29 +3,31 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-    <div class="container">
-        @*<form action="@Request.Url.PathAndQuery" method="post" class="form-signin">*@
-            @using (Html.BeginForm("Index", "Login", new { ReturnUrl = Request.QueryString["ReturnUrl"] },
-                FormMethod.Post, new { @class = "form-signin" }))
-            {
-                if (IsPost)
-                {
-                    <div class="alert alert-danger">Invalid login attempt</div>
-                }
-                <h2 class="form-signin-heading">Please sign in</h2>
-                @*<label for="username" class="sr-only">Email address</label>*@
-                @Html.LabelFor(m => m.Username, "Email address", new { @class = "control-label sr-only" })
-                @Html.TextBoxFor(m => m.Username, new { @class = "form-control", placeholder = "Email address", autofocus = "" })
-                @*<input id="username" name="username" class="form-control" placeholder="Email address" autofocus="" value="@(Model?.Username ?? "")">*@
-                <label for="password" class="sr-only">Password</label>
-                <input type="password" id="password" name="password" class="form-control" placeholder="Password">
-                <div class="checkbox">
-                    <label>
-                        <input type="checkbox" value="remember-me"> Remember me
-                    </label>
-                </div>
-                <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
-            }
+<div class="container">
+    @*<form action="@Request.Url.PathAndQuery" method="post" class="form-signin">*@
+    @using (Html.BeginForm("Index", "Login", new { ReturnUrl = Request.QueryString["ReturnUrl"] },
+        FormMethod.Post, new { @class = "form-signin" }))
+    {
+        if (IsPost)
+        {
+            <div class="alert alert-danger">@Html.ValidationSummary()</div>
+        }
+        <h2 class="form-signin-heading">Please sign in</h2>
+        @*<label for="username" class="sr-only">Email address</label>*@
+        @Html.LabelFor(m => m.Username, "Email address", new { @class = "control-label sr-only" })
+        @Html.TextBoxFor(m => m.Username, new { @class = "form-control", placeholder = "Email address", autofocus = "" })
+        @Html.ValidationMessageFor(m => m.Username)
+        @*<input id="username" name="username" class="form-control" placeholder="Email address" autofocus="" value="@(Model?.Username ?? "")">*@
+        <label for="password" class="sr-only">Password</label>
+        <input type="password" id="password" name="password" class="form-control" placeholder="Password">
+        @Html.ValidationMessageFor(m => m.Password)
+        <div class="checkbox">
+            <label>
+                <input type="checkbox" value="remember-me"> Remember me
+            </label>
+        </div>
+        <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+    }
 
-        @*</form>*@
-    </div>
+    @*</form>*@
+</div>
