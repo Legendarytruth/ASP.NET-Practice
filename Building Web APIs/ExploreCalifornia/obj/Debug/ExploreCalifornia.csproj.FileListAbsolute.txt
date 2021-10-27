@@ -1,0 +1,2 @@
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Web APIs\ExploreCalifornia\obj\Debug\ExploreCalifornia.csproj.AssemblyReference.cache
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Web APIs\ExploreCalifornia\obj\Debug\ExploreCalifornia.csproj.CoreCompileInputs.cache
