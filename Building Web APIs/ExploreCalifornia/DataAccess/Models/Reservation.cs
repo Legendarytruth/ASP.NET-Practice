@@ -16,6 +16,7 @@ namespace ExploreCalifornia.DataAccess.Models
         [StringLength(15)]
         public string CustomerPhone { get; set; }
 
+        public Tour Tour { get; set; }
 
     }
 }

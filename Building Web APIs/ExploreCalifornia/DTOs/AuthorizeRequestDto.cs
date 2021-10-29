@@ -7,6 +7,7 @@ namespace ExploreCalifornia.DTOs
         [Required]
         [MinLength(32), MaxLength(32)]
         public string AppToken { get; set; }
+
         [Required]
         [MinLength(32), MaxLength(32)]
         public string AppSecret { get; set; }

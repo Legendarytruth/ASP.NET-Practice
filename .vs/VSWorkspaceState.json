@@ -4,8 +4,11 @@
     "\\Building Web APIs",
     "\\Building Web APIs\\ExploreCalifornia",
     "\\Building Web APIs\\ExploreCalifornia\\App_Start",
-    "\\Building Web APIs\\ExploreCalifornia\\Controllers"
+    "\\Building Web APIs\\ExploreCalifornia\\Controllers",
+    "\\Building Web APIs\\ExploreCalifornia\\DataAccess",
+    "\\Building Web APIs\\ExploreCalifornia\\DataAccess\\Models",
+    "\\Building Web APIs\\ExploreCalifornia\\DTOs"
   ],
-  "SelectedNode": "\\Building Web APIs\\ExploreCalifornia\\App_Start\\Startup.cs",
+  "SelectedNode": "\\Building Web APIs\\ExploreCalifornia\\ExploreCalifornia.sln",
   "PreviewInSolutionExplorer": false
 }
