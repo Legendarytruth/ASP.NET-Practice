@@ -12,6 +12,7 @@ using System.Web.Http;
 using System.Web.Http.Description;
 using ExploreCalifornia.DataAccess;
 using ExploreCalifornia.DataAccess.Models;
+using ExploreCalifornia.Filters;
 
 namespace ExploreCalifornia.Controllers
 {
@@ -74,6 +75,7 @@ namespace ExploreCalifornia.Controllers
         }
 
         // POST: api/Reservation
+        [DbUpdateExceptionFilter]
         [ResponseType(typeof(Reservation))]
         public async Task<IHttpActionResult> PostReservation(Reservation reservation)
         {
@@ -83,8 +85,19 @@ namespace ExploreCalifornia.Controllers
             }
 
             db.Reservations.Add(reservation);
-            await db.SaveChangesAsync();
 
+            await db.SaveChangesAsync();
+            //try
+            //{
+            //    await db.SaveChangesAsync();
+            //}
+            //catch(DbUpdateException ex)
+            //{
+            //    if (!(ex?.InnerException?.InnerException is SqlException sqlException))
+            //        throw;
+            //    if (sqlException.Number == 2627)
+            //        throw new HttpResponseException(HttpStatusCode.Conflict);
+            //}
             return CreatedAtRoute("DefaultApi", new { id = reservation.ReservationId }, reservation);
         }
 
