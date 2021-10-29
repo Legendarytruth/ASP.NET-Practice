@@ -87,7 +87,6 @@ C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Web APIs\ExploreCaliforn
 C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Web APIs\ExploreCalifornia\bin\Thinktecture.IdentityModel.Core.pdb
 C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Web APIs\ExploreCalifornia\obj\Debug\ExploreCalifornia.dll
 C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Web APIs\ExploreCalifornia\obj\Debug\ExploreCalifornia.pdb
-C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Web APIs\ExploreCalifornia\obj\Debug\ExploreCalifornia.csproj.CopyComplete
 C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Web APIs\ExploreCalifornia\bin\Microsoft.AspNet.Identity.Core.dll
 C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Web APIs\ExploreCalifornia\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Web APIs\ExploreCalifornia\bin\Microsoft.AspNet.Identity.Owin.dll
@@ -108,4 +107,8 @@ C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Web APIs\ExploreCaliforn
 C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Web APIs\ExploreCalifornia\bin\System.Web.WebPages.xml
 C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Web APIs\ExploreCalifornia\bin\System.Web.WebPages.Deployment.xml
 C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Web APIs\ExploreCalifornia\bin\System.Web.WebPages.Razor.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Web APIs\ExploreCalifornia\bin\ExploreCalifornia.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Web APIs\ExploreCalifornia\bin\Swashbuckle.Core.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Web APIs\ExploreCalifornia\bin\System.Web.Mvc.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Web APIs\ExploreCalifornia\bin\System.Web.Mvc.xml
 C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Web APIs\ExploreCalifornia\obj\Debug\ExploreCalifornia.csproj.AssemblyReference.cache
