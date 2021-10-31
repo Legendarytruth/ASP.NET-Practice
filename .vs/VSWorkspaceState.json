@@ -3,13 +3,10 @@
     "",
     "\\ASP.NET Security",
     "\\ASP.NET Security\\HPlusSport",
-    "\\Building Web APIs\\ExploreCalifornia",
-    "\\Building Web APIs\\ExploreCalifornia\\App_Start",
-    "\\Building Web APIs\\ExploreCalifornia\\Controllers",
-    "\\Building Web APIs\\ExploreCalifornia\\DataAccess",
-    "\\Building Web APIs\\ExploreCalifornia\\DataAccess\\Models",
-    "\\Building Web APIs\\ExploreCalifornia\\DTOs"
+    "\\ASP.NET Security\\HPlusSport\\HPlusSport.Web",
+    "\\ASP.NET Security\\HPlusSport\\HPlusSport.Web\\Views",
+    "\\ASP.NET Security\\HPlusSport\\HPlusSport.Web\\Views\\_Shared"
   ],
-  "SelectedNode": "\\ASP.NET Security\\HPlusSport\\HPlusSport.sln",
+  "SelectedNode": "\\ASP.NET Security\\HPlusSport\\HPlusSport.Web\\Views\\_Shared\\_LayoutHome.cshtml",
   "PreviewInSolutionExplorer": false
 }

@@ -33,6 +33,7 @@ namespace HPlusSport.Web.Controllers
 
         // POST: AddToCart
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult AddToCart(int id)
         {
             using (var db = new ShopContext())
@@ -55,6 +56,7 @@ namespace HPlusSport.Web.Controllers
 
         // POST: Order
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Order()
         {
             var order = ShopManager.CreateOrder();
@@ -76,16 +78,17 @@ namespace HPlusSport.Web.Controllers
         }
 
         // GET: Shop/AdminOrder/1
-        public ActionResult AdminOrder(string id)
+        public ActionResult AdminOrder(int id)
         {
-            var order = db.Orders.Find(Int32.Parse(new string(id.Trim().TakeWhile(c => char.IsDigit(c)).ToArray())));
+            var order = db.Orders.Find(id);
             if (order == null)
             {
                 return HttpNotFound();
             }
-            var totalAmount = db.Database.SqlQuery<decimal>(
-                $"SELECT SUM(Article.Price) FROM Article WHERE Article.Id IN (SELECT Article_Id FROM OrderArticle WHERE Order_Id={id})"
-                ).FirstOrDefault();
+            //var totalAmount = db.Database.SqlQuery<decimal>(
+            //    $"SELECT SUM(Article.Price) FROM Article WHERE Article.Id IN (SELECT Article_Id FROM OrderArticle WHERE Order_Id={id})"
+            //    ).FirstOrDefault();
+            var totalAmount = order.Articles.Sum(a => a.Price);
             ViewBag.TotalAmount = totalAmount;
 
             return View(order);

@@ -10,7 +10,7 @@ namespace HPlusSport.API
         public static void Register(HttpConfiguration config)
         {
             // Web-API-Konfiguration und -Dienste
-
+            config.EnableCors();
             // Web-API-Routen
             config.MapHttpAttributeRoutes();
 

@@ -10,9 +10,9 @@
 </header>
 <div class="storefront-sorting"><div class="woocommerce-notices-wrapper"></div></div>
 
-<div>Your search for @Html.Raw(ViewBag.SearchTerm) yielded no results.</div>
+<div>Your search for @ViewBag.SearchTerm yielded no results.</div>
 
 <script>
-    jQuery("h1.page-title").html('Search Result: @ViewBag.SearchTerm');
+    jQuery("h1.page-title").html('Search Result: @HttpUtility.JavaScriptStringEncode(ViewBag.SearchTerm)');
 </script>
 
