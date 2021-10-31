@@ -19,6 +19,7 @@
                 @if (article.IsAvailable) {
                     using (Html.BeginForm("AddToCart", "Shop", new { id = article.Id }, FormMethod.Post))
                     {
+                        @Html.AntiForgeryToken()
                     <input type="submit" value="Add to cart" />
                     }
                 }
