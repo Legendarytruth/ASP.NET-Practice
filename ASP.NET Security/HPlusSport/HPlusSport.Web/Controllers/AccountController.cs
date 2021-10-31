@@ -5,7 +5,7 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
-
+using HPlusSport.Web.Classes;
 
 using Microsoft.AspNet.Identity;
 using Microsoft.Owin.Security;
@@ -27,8 +27,15 @@ namespace HPlusSport.Web.Controllers
         {
             using (var db = new ShopContext())
             {
-                var user = db.Users.FirstOrDefault(u => u.Email == email && u.Password == password);
-                if (user == null)
+                var user = db.Users.FirstOrDefault(u => u.Email == email);
+                if (user == null || PasswordHelper.VerifyPassword(
+                    password, 
+                    new HashInformation()
+                    {
+                        Hash = user.Hash,
+                        Salt = user.Salt
+                    }
+                    ) == false)
                 {
                     ViewBag.Message = "User name or password invalid";
                     return View();
