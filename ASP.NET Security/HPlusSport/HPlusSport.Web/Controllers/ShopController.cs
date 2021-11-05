@@ -64,6 +64,7 @@ namespace HPlusSport.Web.Controllers
         }
 
         // GET: Shop/Search
+        [ValidateInput(false)]
         public ActionResult Search(string q)
         {
             ViewBag.SearchTerm = q;
@@ -71,6 +72,7 @@ namespace HPlusSport.Web.Controllers
         }
 
         // GET: Shop/AdminOrders
+        [CustomAuth(Roles = "Admmin")]
         public ActionResult AdminOrders()
         {
             var orders = db.Orders.ToList();
@@ -78,6 +80,7 @@ namespace HPlusSport.Web.Controllers
         }
 
         // GET: Shop/AdminOrder/1
+        [CustomAuth(Roles = "Admmin")]
         public ActionResult AdminOrder(int id)
         {
             var order = db.Orders.Find(id);
@@ -85,9 +88,7 @@ namespace HPlusSport.Web.Controllers
             {
                 return HttpNotFound();
             }
-            //var totalAmount = db.Database.SqlQuery<decimal>(
-            //    $"SELECT SUM(Article.Price) FROM Article WHERE Article.Id IN (SELECT Article_Id FROM OrderArticle WHERE Order_Id={id})"
-            //    ).FirstOrDefault();
+            
             var totalAmount = order.Articles.Sum(a => a.Price);
             ViewBag.TotalAmount = totalAmount;
 

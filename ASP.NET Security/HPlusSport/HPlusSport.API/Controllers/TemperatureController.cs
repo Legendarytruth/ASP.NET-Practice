@@ -8,9 +8,9 @@ using System.Web.Http.Cors;
 
 namespace HPlusSport.API.Controllers
 {
-    [EnableCors(origins: "https://localhost:44329", headers: "*", methods:"GET")]
     public class TemperatureController : ApiController
     {
+        [EnableCors(origins: "https://localhost:44329", headers: "*", methods: "GET")]
         public int Get()
         {
             var temperature = new Random().Next(30, 90);

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using HPlusSport.Web.Classes;
+using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
@@ -60,11 +61,18 @@ namespace HPlusSport.Web.Models
             articles.ForEach(a => context.Articles.Add(a));
             context.SaveChanges();
 
-            var users = new List<User>()
-            {
-                new User { Id = 1, Email = "adam@example.com", Password = "Adam's secret"},
-                new User { Id = 2, Email = "barbara@example.com", Password = "b@rb@r@"}
-            };
+            var users = new List<User>() { };
+            users.Add(
+                new User {
+                    Id = 1,
+                    Email = "adam@example.com"
+                });
+            users.Add(
+                new User
+                {
+                    Id = 2,
+                    Email = "barbara@example.com"
+                });
             users.ForEach(u => context.Users.Add(u));
             context.SaveChanges();
         }

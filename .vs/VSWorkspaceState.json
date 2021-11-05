@@ -4,13 +4,9 @@
     "\\ASP.NET Security",
     "\\ASP.NET Security\\HPlusSport",
     "\\ASP.NET Security\\HPlusSport\\HPlusSport.API",
-    "\\ASP.NET Security\\HPlusSport\\HPlusSport.API\\App_Start",
-    "\\ASP.NET Security\\HPlusSport\\HPlusSport.Web",
     "\\ASP.NET Security\\HPlusSport\\HPlusSport.Web\\Classes",
-    "\\ASP.NET Security\\HPlusSport\\HPlusSport.Web\\Controllers",
-    "\\ASP.NET Security\\HPlusSport\\HPlusSport.Web\\Views\\Shop",
-    "\\ASP.NET Security\\HPlusSport\\HPlusSport.Web\\Views\\_Shared"
+    "\\ASP.NET Security\\HPlusSport\\HPlusSport.Web\\Controllers"
   ],
-  "SelectedNode": "\\ASP.NET Security\\HPlusSport\\HPlusSport.API\\App_Start\\WebApiConfig.cs",
+  "SelectedNode": "\\ASP.NET Security\\HPlusSport\\HPlusSport.sln",
   "PreviewInSolutionExplorer": false
 }

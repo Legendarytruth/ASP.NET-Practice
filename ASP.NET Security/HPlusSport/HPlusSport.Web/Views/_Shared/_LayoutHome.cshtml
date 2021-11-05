@@ -543,14 +543,6 @@
                                 <li id="menu-item-126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="https://hplussport.com/blog/">Blog</a></li>
                                 <li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="https://hplussport.com/contact/">Contact</a></li>
                                 -->
-                                @if (User.Identity.IsAuthenticated)
-                                {
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="~/Account/Logout">Welcome, @User.Identity.Name!</a></li>
-                                }
-                                else
-                                {
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="~/Account/Login">Login</a></li>
-                                }
                                 <li><span id="temperature">?</span> °F</li>
                             </ul>
                         </div><div class="menu">

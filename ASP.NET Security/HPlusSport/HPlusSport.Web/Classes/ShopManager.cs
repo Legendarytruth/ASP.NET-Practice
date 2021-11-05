@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Web;
 
 namespace HPlusSport.Web.Classes
@@ -59,16 +60,27 @@ namespace HPlusSport.Web.Classes
             }
             using (var db = new ShopContext())
             {
-                var order = new Order()
+                var userId = -1;
+                var userIdFromClaim =
+                    (HttpContext.Current.User.Identity as ClaimsIdentity).Claims
+                    .Single(c => c.Type == ClaimTypes.NameIdentifier)?.Value;
+                if (!string.IsNullOrEmpty(userIdFromClaim) &&
+                    int.TryParse(userIdFromClaim, out userId))
                 {
-                    Articles = articles,
-                    OrderDate = DateTime.Now,
-                    User = db.Users.Single(u => u.Email == HttpContext.Current.User.Identity.Name)
-                };
-                db.Orders.Add(order);
-                db.SaveChanges();
-                EmptyCart();
-                return order;
+                    var order = new Order()
+                    {
+                        Articles = articles,
+                        OrderDate = DateTime.Now,
+                        User = db.Users.Single(u => u.Id == userId)
+                    };
+                    db.Orders.Add(order);
+                    db.SaveChanges();
+                    EmptyCart();
+                    return order;
+                } else
+                {
+                    throw new InvalidOperationException("User unknown");
+                }
             }
         }
 
