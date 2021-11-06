@@ -21,6 +21,8 @@ namespace HPlusSport.Web
             RouteConfig.RegisterRoutes(RouteTable.Routes);
 
             AntiForgeryConfig.UniqueClaimTypeIdentifier = ClaimTypes.NameIdentifier;
+
+            MvcHandler.DisableMvcResponseHeader = true;
         }
     }
 }

@@ -4,9 +4,10 @@
     "\\ASP.NET Security",
     "\\ASP.NET Security\\HPlusSport",
     "\\ASP.NET Security\\HPlusSport\\HPlusSport.API",
+    "\\ASP.NET Security\\HPlusSport\\HPlusSport.Web",
     "\\ASP.NET Security\\HPlusSport\\HPlusSport.Web\\Classes",
     "\\ASP.NET Security\\HPlusSport\\HPlusSport.Web\\Controllers"
   ],
-  "SelectedNode": "\\ASP.NET Security\\HPlusSport\\HPlusSport.sln",
+  "SelectedNode": "\\ASP.NET Security\\HPlusSport\\HPlusSport.Web\\Controllers\\ShopController.cs",
   "PreviewInSolutionExplorer": false
 }
