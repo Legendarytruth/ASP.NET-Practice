@@ -1,6 +1,14 @@
-﻿@{
+﻿@model SocialIdentity.ViewModels.MyViewModel
+@{
     ViewBag.Title = "Contact";
 }
+@if (Model.IsAdmin)
+{
+    <span>User is Admin</span>
+}
+else
+{
+    <span>User is not Admin</span>}
 <h2>@ViewBag.Title.</h2>
 <h3>@ViewBag.Message</h3>
 
@@ -15,3 +23,4 @@
     <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
     <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
 </address>
+

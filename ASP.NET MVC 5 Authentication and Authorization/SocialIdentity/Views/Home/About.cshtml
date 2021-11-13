@@ -1,7 +1,13 @@
-﻿@{
+﻿@model SocialIdentity.ViewModels.MyViewModel
+@{
     ViewBag.Title = "About";
 }
 <h2>@ViewBag.Title.</h2>
 <h3>@ViewBag.Message</h3>
 
 <p>Use this area to provide additional information.</p>
+
+@if (Model.IsAdmin) { 
+<span>User is Admin</span>
+}else{
+<span>User is not Admin</span>}
