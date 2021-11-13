@@ -10,16 +10,32 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
+using SendGrid;
+using SendGrid.Helpers.Mail;
 using SocialIdentity.Models;
+using Twilio;
+using Twilio.Rest.Api.V2010.Account;
 
 namespace SocialIdentity
 {
     public class EmailService : IIdentityMessageService
     {
-        public Task SendAsync(IdentityMessage message)
+        public async Task SendAsync(IdentityMessage message)
         {
+            string key = @"SendGrid key";
+            var client = new SendGridClient(key);
+            var from = new EmailAddress("address", "name"); //set which email the confirmation email comes from.
+
+            var subject = message.Subject;
+            var to = new EmailAddress(message.Destination, "New User");
+            var plainTextContent = message.Body;
+            var htmlContent = message.Body; 
+
+            var email = MailHelper.CreateSingleEmail(from, to, subject, plainTextContent, htmlContent);
+
+            await client.SendEmailAsync(email);
             // Plug in your email service here to send an email.
-            return Task.FromResult(0);
+            //return Task.FromResult(0);
         }
     }
 
@@ -28,6 +44,18 @@ namespace SocialIdentity
         public Task SendAsync(IdentityMessage message)
         {
             // Plug in your SMS service here to send a text message.
+            const string accountSID = @"TwilioSID";
+            const string authToken = @"TwilioauthToken";
+
+            TwilioClient.Init(accountSID, authToken);
+
+            var sms = MessageResource.Create(
+                body: message.Body,
+                from: new Twilio.Types.PhoneNumber("(999) 999-9999"),
+                to: new Twilio.Types.PhoneNumber(message.Destination)
+                );
+
+
             return Task.FromResult(0);
         }
     }

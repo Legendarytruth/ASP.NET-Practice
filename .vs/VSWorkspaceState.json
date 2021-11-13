@@ -1,13 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ASP.NET Security",
-    "\\ASP.NET Security\\HPlusSport",
-    "\\ASP.NET Security\\HPlusSport\\HPlusSport.API",
-    "\\ASP.NET Security\\HPlusSport\\HPlusSport.Web",
-    "\\ASP.NET Security\\HPlusSport\\HPlusSport.Web\\Classes",
-    "\\ASP.NET Security\\HPlusSport\\HPlusSport.Web\\Controllers"
+    "\\ASP.NET MVC 5 Authentication and Authorization",
+    "\\ASP.NET MVC 5 Authentication and Authorization\\SocialIdentity",
+    "\\ASP.NET MVC 5 Authentication and Authorization\\SocialIdentity\\App_Start"
   ],
-  "SelectedNode": "\\ASP.NET Security\\HPlusSport\\HPlusSport.Web\\Controllers\\ShopController.cs",
+  "SelectedNode": "\\ASP.NET MVC 5 Authentication and Authorization\\Identity.sln",
   "PreviewInSolutionExplorer": false
 }

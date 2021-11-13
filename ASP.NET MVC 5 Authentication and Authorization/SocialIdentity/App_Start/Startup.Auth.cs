@@ -5,6 +5,7 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
+using Owin.Security.Providers.GitHub;
 using SocialIdentity.Models;
 
 namespace SocialIdentity
@@ -46,23 +47,27 @@ namespace SocialIdentity
             app.UseTwoFactorRememberBrowserCookie(DefaultAuthenticationTypes.TwoFactorRememberBrowserCookie);
 
             // Uncomment the following lines to enable logging in with third party login providers
-            //app.UseMicrosoftAccountAuthentication(
-            //    clientId: "",
-            //    clientSecret: "");
+            app.UseGitHubAuthentication(
+                clientId: "github",
+                clientSecret: "githubsecret");
 
-            //app.UseTwitterAuthentication(
-            //   consumerKey: "",
-            //   consumerSecret: "");
+            app.UseMicrosoftAccountAuthentication(
+                clientId: "microsoft",
+                clientSecret: "microsoftsecret");
 
-            //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            app.UseTwitterAuthentication(
+               consumerKey: "twitter",
+               consumerSecret: "twittersecret");
 
-            //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
-            //{
-            //    ClientId = "",
-            //    ClientSecret = ""
-            //});
+            app.UseFacebookAuthentication(
+               appId: "facebook",
+               appSecret: "facebooksecret");
+
+            app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
+            {
+                ClientId = "google",
+                ClientSecret = "googlesecret"
+            });
         }
     }
 }
