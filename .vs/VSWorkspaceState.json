@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ASP.NET MVC 5 Authentication and Authorization",
-    "\\ASP.NET MVC 5 Authentication and Authorization\\SocialIdentity",
-    "\\ASP.NET MVC 5 Authentication and Authorization\\SocialIdentity\\App_Start"
+    "\\ASP.NET MVC 5 Authentication and Authorization"
   ],
   "SelectedNode": "\\ASP.NET MVC 5 Authentication and Authorization\\Identity.sln",
   "PreviewInSolutionExplorer": false
