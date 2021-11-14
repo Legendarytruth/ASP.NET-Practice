@@ -32,7 +32,7 @@
         chatHub.client.onNewMessage = (username, message, left, top) => {
             var newMessage = $('<a>')
                 .addClass('fun-chat-message')
-                .text(username || 'Anonymous' + ': ' + message)
+                .text((username || 'Anonymous') + ': ' + message)
                 .css({ position: 'absolute', cursor: 'pointer' })
                 .offset({ left: left, top: top })
                 .click(() => {
@@ -47,7 +47,7 @@
         chatHub.client.onNewPrivateMessage = (username, message) => {
             var newMessage = $('<a>')
                 .addClass('fun-chat-message')
-                .text('PM from ' + username || 'Anonymous' + ': ' + message)
+                .text('PM from ' + (username || 'Anonymous') + ': ' + message)
                 .css({ position: 'absolute', cursor: 'pointer' })
                 .offset({ left: Math.random() * 500, top: Math.random() * 500 + 50 })
                 .click(() => {
