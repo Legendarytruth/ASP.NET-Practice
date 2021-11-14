@@ -21,7 +21,11 @@
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li><a>Click anywhere to type a message</a></li>
+                    <li>@Html.ActionLink("Random", "Index", "Home", new { room = "random" }, null)"</li>
+                    <li>@Html.ActionLink("Pets", "Index", "Home", new { room = "pets" }, null)"</li>
+                    <li>@Html.ActionLink("Cars", "Index", "Home", new { room = "cars" }, null)"</li>
+                    <li>@Html.ActionLink("Food", "Index", "Home", new { room = "food" }, null)"</li>
+                    <li>@Html.ActionLink("Beds", "Index", "Home", new { room = "beds" }, null)"</li>
                 </ul>
                 @Html.Partial("_LoginPartial")
             </div>
