@@ -2,10 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\Building Real-Time Web Apps with SignalR 2",
-    "\\Building Real-Time Web Apps with SignalR 2\\SignalRExample",
+    "\\Building Real-Time Web Apps with SignalR 2\\FunChat",
+    "\\Building Real-Time Web Apps with SignalR 2\\FunChat\\Views",
+    "\\Building Real-Time Web Apps with SignalR 2\\FunChat\\Views\\Home",
+    "\\Building Real-Time Web Apps with SignalR 2\\SignalRExample\\Hubs",
     "\\Building Real-Time Web Apps with SignalR 2\\SignalRExample\\Views",
     "\\Building Real-Time Web Apps with SignalR 2\\SignalRExample\\Views\\Home"
   ],
-  "SelectedNode": "\\Building Real-Time Web Apps with SignalR 2\\SignalRExample\\Views\\Home\\Index.cshtml",
+  "SelectedNode": "\\Building Real-Time Web Apps with SignalR 2\\FunChat\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
