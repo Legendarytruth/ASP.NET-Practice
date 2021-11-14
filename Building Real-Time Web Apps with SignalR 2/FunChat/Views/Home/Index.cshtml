@@ -29,11 +29,36 @@
             return false;
         })
 
-        chatHub.client.onNewMessage = (message, left, top) => {
-            var newMessage = $('<span>').addClass('fun-chat-message').text(message).css({ position: 'absolute' }).offset({ left: left, top: top });
+        chatHub.client.onNewMessage = (username, message, left, top) => {
+            var newMessage = $('<a>')
+                .addClass('fun-chat-message')
+                .text(username || 'Anonymous' + ': ' + message)
+                .css({ position: 'absolute', cursor: 'pointer' })
+                .offset({ left: left, top: top })
+                .click(() => {
+                    var message = window.prompt("What's the message?");
+                    chatHub.server.sendPrivateMessage(username, message);
+                    return false;
+                });
 
             funChat.append(newMessage);
         }
+
+        chatHub.client.onNewPrivateMessage = (username, message) => {
+            var newMessage = $('<a>')
+                .addClass('fun-chat-message')
+                .text('PM from ' + username || 'Anonymous' + ': ' + message)
+                .css({ position: 'absolute', cursor: 'pointer' })
+                .offset({ left: Math.random() * 500, top: Math.random() * 500 + 50 })
+                .click(() => {
+                    var message = window.prompt("What's the message?");
+                    chatHub.server.sendPrivateMessage(username, message);
+                    return false;
+                });
+
+            funChat.append(newMessage);
+        }
+
         $.connection.hub.start().done(() => {
             chatHub.server.joinRoom(chatroom);
         })

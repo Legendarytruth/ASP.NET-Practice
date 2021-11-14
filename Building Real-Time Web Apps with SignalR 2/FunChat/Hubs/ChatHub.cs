@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using System.Web;
 
 namespace WebApplication1.Hubs
@@ -15,7 +16,24 @@ namespace WebApplication1.Hubs
         public void SendMessage(string room, string message, int x, int y)
         {
             //Clients.All.onNewMessage(message, x, y);
-            Clients.Group(room).onNewMessage(message, x, y);
+            var username = Context.User.Identity.Name;
+            Clients.Group(room).onNewMessage(username, message, x, y);
+        }
+
+        public void SendPrivateMessage(string toUsername, string message)
+        {
+            var fromUsername = Context.User.Identity.Name;
+            Clients.Group("users/" + toUsername).onNewPrivateMessage(fromUsername, message);
+        }
+
+        public override Task OnConnected()
+        {
+            var username = Context.User.Identity.Name;
+            if (!string.IsNullOrEmpty(username))
+            {
+                Groups.Add(Context.ConnectionId, "users/" + username);
+            }
+            return base.OnConnected();
         }
     }
 }
