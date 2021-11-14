@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div id="fun-chat-body" />
+<form id="fun-chat-form">
+    <input id="fun-chat-input" type="text" style="position:absolute; display:none;"/>
+</form>
+
+@section scripts {
+    <script src="~/Scripts/jquery.signalR-2.4.2.min.js"></script>
+    <script src="~/signalr/hubs"></script>
+    <script>
+        var chatHub = $.connection.chatHub;
+        var funChat = $('#fun-chat-body');
+        var funChatForm = $('#fun-chat-form');
+        var funChatInput = $('#fun-chat-input');
+
+        funChat.click((event) => {
+            funChatInput.show().offset({ left: event.clientX, top: event.clientY }).focus();
+        })
+
+        funChatForm.submit(() => {
+            var message = funChatInput.val();
+            var position = funChatInput.offset();
+            chatHub.server.sendMessage(message, position.left, position.top);
+            funChatInput.val('').hide();
+            return false;
+        })
+
+        chatHub.client.onNewMessage = (message, left, top) => {
+            var newMessage = $('<span>').addClass('fun-chat-message').text(message).css({ position: 'absolute' }).offset({ left: left, top: top });
+
+            funChat.append(newMessage);
+        }
+        $.connection.hub.start().done(() => {
+        })
+    </script>
+    }

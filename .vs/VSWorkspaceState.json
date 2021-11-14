@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ASP.NET MVC 5 Authentication and Authorization"
+    "\\Building Real-Time Web Apps with SignalR 2",
+    "\\Building Real-Time Web Apps with SignalR 2\\SignalRExample",
+    "\\Building Real-Time Web Apps with SignalR 2\\SignalRExample\\Views",
+    "\\Building Real-Time Web Apps with SignalR 2\\SignalRExample\\Views\\Home"
   ],
-  "SelectedNode": "\\ASP.NET MVC 5 Authentication and Authorization\\Identity.sln",
+  "SelectedNode": "\\Building Real-Time Web Apps with SignalR 2\\SignalRExample\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

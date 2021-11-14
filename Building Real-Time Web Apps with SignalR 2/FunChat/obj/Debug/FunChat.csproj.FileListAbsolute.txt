@@ -1,0 +1,246 @@
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\ApplicationInsights.config
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\WebApplication1.dll.config
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\WebApplication1.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\WebApplication1.pdb
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\csc.exe
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\csc.exe.config
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\csc.rsp
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\csi.exe
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\csi.exe.config
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\csi.rsp
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.AppContext.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.Console.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.IO.Compression.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.Security.Claims.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.ValueTuple.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\vbc.exe
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\vbc.exe.config
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\vbc.rsp
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\VBCSCompiler.exe
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Antlr3.Runtime.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\EntityFramework.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\EntityFramework.SqlServer.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.AI.Web.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.Owin.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.Owin.Security.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Newtonsoft.Json.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Owin.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\System.Web.Helpers.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\System.Web.Mvc.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\System.Web.Optimization.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\System.Web.Razor.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\System.Web.WebPages.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\System.Web.WebPages.Razor.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\WebGrease.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\System.Web.Helpers.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\System.Web.Mvc.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\System.Web.Optimization.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\System.Web.Razor.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\System.Web.WebPages.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\System.Web.WebPages.Razor.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Newtonsoft.Json.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Antlr3.Runtime.pdb
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\EntityFramework.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\EntityFramework.SqlServer.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.Owin.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.Owin.Security.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.AI.Web.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\obj\Debug\FunChat.csprojAssemblyReference.cache
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\obj\Debug\FunChat.csproj.CoreCompileInputs.cache
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\obj\Debug\FunChat.csproj.CopyComplete
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\obj\Debug\WebApplication1.dll
+C:\Users\Richard Rout\Downloads\FunChat\FunChat\FunChat\obj\Debug\WebApplication1.pdb
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\ApplicationInsights.config
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\WebApplication1.dll.config
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\WebApplication1.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\WebApplication1.pdb
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\csc.exe
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\csc.exe.config
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\csc.rsp
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\csi.exe
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\csi.exe.config
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\csi.rsp
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.AppContext.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.Console.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.IO.Compression.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.Security.Claims.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.ValueTuple.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\vbc.exe
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\vbc.exe.config
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\vbc.rsp
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\VBCSCompiler.exe
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Antlr3.Runtime.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\EntityFramework.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\EntityFramework.SqlServer.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.AI.Web.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.Owin.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.Owin.Security.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Newtonsoft.Json.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Owin.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\System.Web.Helpers.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\System.Web.Mvc.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\System.Web.Optimization.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\System.Web.Razor.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\System.Web.WebPages.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\System.Web.WebPages.Razor.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\WebGrease.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\System.Web.Helpers.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\System.Web.Mvc.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\System.Web.Optimization.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\System.Web.Razor.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\System.Web.WebPages.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\System.Web.WebPages.Razor.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Newtonsoft.Json.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Antlr3.Runtime.pdb
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\EntityFramework.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\EntityFramework.SqlServer.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.Owin.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.Owin.Security.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.AI.Web.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\obj\Debug\FunChat.csproj.AssemblyReference.cache
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\obj\Debug\FunChat.csproj.CoreCompileInputs.cache
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\obj\Debug\FunChat.csproj.CopyComplete
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\obj\Debug\WebApplication1.dll
+C:\Users\HS\Documents\ASP.NET\ASP.NET-Practice\Building Real-Time Web Apps with SignalR 2\FunChat\obj\Debug\WebApplication1.pdb
